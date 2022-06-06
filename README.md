@@ -1,3 +1,8 @@
+## Instruções do exercício prático da semana 1
+Crie uma rede pública(vpc) na Amazon com todos os recursos necessários para ter acesso a Internet. Importante: deixar esta rede em datacenters diferentes.   
+
+Depois crie um EC2 e faça a conexão via ssh na máquina criada.
+
 ### Criando e acessando uma EC2
 #### Passos:
 1. Escolher uma imagem de máquina da Amazon (AMI - Amazon Machine Image)
